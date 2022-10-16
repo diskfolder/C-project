@@ -1,2 +1,0 @@
-# C-project
-C project
