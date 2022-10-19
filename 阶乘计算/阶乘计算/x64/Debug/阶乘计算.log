@@ -1,11 +1,2 @@
 ﻿  源.cpp
-D:\C code\阶乘计算\阶乘计算\源.cpp(8,15): warning C4101: “e”: 未引用的局部变量
-D:\C code\阶乘计算\阶乘计算\源.cpp(8,6): warning C4101: “b”: 未引用的局部变量
-D:\C code\阶乘计算\阶乘计算\源.cpp(8,18): warning C4101: “f”: 未引用的局部变量
-D:\C code\阶乘计算\阶乘计算\源.cpp(8,30): warning C4101: “j”: 未引用的局部变量
-D:\C code\阶乘计算\阶乘计算\源.cpp(8,27): warning C4101: “i”: 未引用的局部变量
-D:\C code\阶乘计算\阶乘计算\源.cpp(8,9): warning C4101: “c”: 未引用的局部变量
-D:\C code\阶乘计算\阶乘计算\源.cpp(8,24): warning C4101: “h”: 未引用的局部变量
-D:\C code\阶乘计算\阶乘计算\源.cpp(8,21): warning C4101: “g”: 未引用的局部变量
-D:\C code\阶乘计算\阶乘计算\源.cpp(8,12): warning C4101: “d”: 未引用的局部变量
   阶乘计算.vcxproj -> D:\C code\阶乘计算\x64\Debug\阶乘计算.exe

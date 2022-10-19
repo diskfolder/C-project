@@ -2,20 +2,24 @@
 #include <stdio.h>
 int main()
 {
-	long a ;
-	long n ;
-	long ret = 1;
-	int b, c, d, e, f, g, h, i, j;
+	int a ;
+	int n ;
 	
-	scanf("%d", &n);
-		for (a = 1; a <= n; a++)
+	int sum=0 ;
+	
+	for (n = 1; n <= 3; n++)
 	{
-		ret = ret * a;
-	
+		int ret = 1;
+		for (a = 1; a <= n; a++)
+		{
+			
+			ret = ret * a;
 
+			
+		}
+		sum = ret+sum;
 	}
-	printf("%d", ret);
-
+	printf("ºÍÎª:%d",sum);
 
 	return 0;
 }
