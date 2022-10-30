@@ -1,0 +1,11 @@
+﻿  game.c
+  test.c
+D:\C code\三子棋\三子棋\test.c(22,11): warning C4098: “test”:“void”函数返回值
+D:\C code\三子棋\三子棋\test.c(25,11): warning C4098: “test”:“void”函数返回值
+D:\C code\三子棋\三子棋\test.c(28,11): warning C4098: “test”:“void”函数返回值
+D:\C code\三子棋\三子棋\test.c(48,23): warning C4047: “函数”:“int *”与“int”的间接级别不同
+D:\C code\三子棋\三子棋\test.c(48,22): warning C4024: “iswin”: 形参和实参 3 的类型不同
+D:\C code\三子棋\三子棋\test.c(53,23): warning C4047: “函数”:“int *”与“int”的间接级别不同
+D:\C code\三子棋\三子棋\test.c(53,22): warning C4024: “iswin”: 形参和实参 3 的类型不同
+  正在生成代码...
+  三子棋.vcxproj -> D:\C code\三子棋\x64\Debug\三子棋.exe
